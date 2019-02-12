@@ -1,3 +1,3 @@
-# DataCamp_Exploring_67_Years_Of_LEGO
+# DataCamp Python Projects
 
-Using Python, relying a great deal on Pandas, to do a quick analysis of historical LEGO data.
+This is where I'll store all of my completed Datacamp Python guided projects.
